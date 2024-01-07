@@ -1,5 +1,5 @@
-# latex-cheatsheet-template
-My personal template to typeset cheatsheets.
+# bfh-advanced-cpp-cheatsheet
+Cheatsheet for the elective course "Advanced C++" at the Bern University of Applied Sciences.
 
 ## Required Software
 - pdflatex
